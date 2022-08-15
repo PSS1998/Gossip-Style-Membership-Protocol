@@ -2,7 +2,7 @@
 
 This repository contains one of the computer programming assignments of Coursera's Cloud Computing Course which is an implementation of a membership protocol based on gossip protocol.
 </br></br>
-This membership protocol implementation will sit above an emulated network layer (EmulNet) in a peer- to-peer (P2P) layer, but below an App layer. Think of this like a three-layer protocol stack with Application, P2P, and EmulNet as the three layers. The Application and EmulNet layers where already provide for this assignment.
+This membership protocol implementation will sit above an emulated network layer (EmulNet) in a peer- to-peer (P2P) layer, but below an App layer. Think of this like a three-layer protocol stack with Application, P2P, and EmulNet as the three layers. The Application and EmulNet layers where already provided for this assignment.
 </br></br>
 This implementation can esily be used in a real world network by changing the two EmulNet and App layers.
 </br></br>
